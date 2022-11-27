@@ -71,7 +71,9 @@ make time
 ## Time Comparison
 
 In this case i use N = 80
+
 ![TimeComplx](Images/TimeCmplx.png)
+
 It shows that the time taken for iterative N = 80 is 0.0000007s and for recursive N = 80 is 0.027880s
 
 # Space Complexity
